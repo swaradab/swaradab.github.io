@@ -1,0 +1,27 @@
+---
+
+layout: post
+title: The Myth of the Book That Changes Everything
+subtitle: Reading something transformative most likely won't transform you, but it's still important.
+comments: true
+cover-img: /assets/img/leaves.jpg
+thumbnail-img: /assets/img/book.jpg
+share-img: /assets/img/books.jpg
+readtime: true
+tags: [books, reading, reading habit, learn]
+
+---
+
+After years of trying, I was able to read consistently for a whole year in 2020. I don't think it was something I had planned to do - I was trying to remain functional in a dysfunctional time, and the only places I could get ideas and recommendations which felt relevant and helpful to me were books. I had turned to books before sporadically, but in 2020 I used them as guides, trying to understand more about my psyche and health when life had taken on a pace I was finding it difficult to adjust to. My year of reading was disappointing in ways I maybe expected, but rewarding in ways I never saw coming.
+
+I read several books at a time, and at any point I would read whatever I wanted to read about most on that day. It was a pretty good strategy - it felt like I was reading several thought-provoking articles or blog posts back to back, with none of the productivity baggage that the desire to finish a whole book typically brings. There are books I started in 2020 which I never finished, and there are several that I did. Some books were mildly interesting, whereas others felt personal. If you've ever read a highly specific book in the psychology/productivity/self-help genre, you probably know what I'm talking about. The page-turning, I-can't-believe-I-haven't-read-this-before, major-wake-up-call book. The book where the entire time you're reading it, you're picturing the author alone with you in a room, staring into your transfixed eyes while they yell every word. The book that's exactly what you have always needed to hear. The book that will change everything.
+
+There were a few of these for me. Cal Newport's Deep Work was surreally gripping in a time when I was struggling with not being able to focus for long periods of time on vitally important tasks. I had several eureka moments when I read Angela Duckworth's Grit. I read the first few chapters of the Obesity Code by Jason Fung and was convinced I was going to change every eating habit I had tomorrow. I had these incredible highs when I was reading, feeling like I could get a lot of things under my control which previously weren't. Armed with these new insights, I could completely change.
+
+Here's the thing - change is hard work. It's slow, and sometimes it's painful. The unfortunate reality is that before and after reading Deep Work, my work habits didn't really change all that much. The ideas in these books would rattle around in my head for months after I finished reading them but fusing them into my lifestyle was harder than I expected. We're largely creatures of habit, and most of what we do happens on a subconscious level. There is tremendous inertia to change, and sometimes a read-through of a good book isn't going to rewire your brain the way you had hoped.
+
+That's fine. I've come to accept this. Because here's another thing I realized - I definitely changed over the year 2020. In fact, I became a completely different person. I can see this in the way I speak and act, but mostly in the way I think. It's true that for the most part, no immediate and noticeable transformation occurred after I put down my 350-page non-fiction psychological roller coaster. Sometimes I wouldn't even remember a lot of what I read a few weeks down the line. But a few key ideas from each book would resonate with me on such a deep level that they would stay with me, long term. I would reflect on them when a real-life situation would demand my response, sometimes even months later. More importantly, I would think of life as it happened in the context of these new ideas, and spend time articulating these ideas until they bled into my perception of the world. If I read 10 books or listened to 10 podcasts, this would maybe result in me adopting 10-15 new ideas or thought patterns. Every time I would read something, my mind would experience a small shift. These shifts would feel unimportant and underwhelming in the moment, but everything compounds over time. 
+
+By the end of 2020, I was far more clear-headed, honest, and self-assured than I was at the start of the year. I had mental frameworks to think through problems that were immensely useful. I had a better idea of who I was with all of my strengths and flaws, a better handle on my priorities and a much more optimistic view of my potential. I can't even describe what a profound effect a year of reading had on me.
+
+I guess the takeaway for me is that it's more important to develop a reading habit than it is to read a good book. Even if you're only reading 10 pages a day. Even if you aren't finishing all the books you start. Any reading is good reading. Also, don't keep your expectations sky-high when it comes to change. We aren't designed to overcome all of our subconscious ticks and tendencies and transform in an instant, a day or even a month. It's more important to focus on the process that is learning than to worry about how much you've learned. In the end, reading pays you back ten times over - you just may have to wait a little bit.
