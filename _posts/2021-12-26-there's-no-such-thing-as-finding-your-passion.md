@@ -4,7 +4,7 @@ layout: post
 title: There’s No Such Thing As ‘Finding Your Passion’
 subtitle: Why overthinking your life's calling is the opposite of what you should do
 comments: true
-cover-img: /assets/img/leaves2.jpg
+cover-img: /assets/img/leaves3.jpg
 thumbnail-img: /assets/img/signs.jpg
 share-img: /assets/img/signs.jpg
 readtime: true
