@@ -4,7 +4,7 @@ layout: post
 title: Friendship vs. Judgment
 subtitle: An incident from second grade that might have defined my friendships forever.
 comments: true
-cover-img: /assets/img/oceanrocks.jpg
+cover-img: /assets/img/leaf.jpg
 thumbnail-img: /assets/img/friends.jpg
 share-img: /assets/img/friends.jpg
 readtime: true
