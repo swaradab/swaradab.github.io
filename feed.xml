@@ -1,29 +1,68 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    {% if site.title %}
-    <title>{{ site.title | xml_escape }}</title>
-    {% endif %}
-    {% if site.rss-description %}
-    <description>{{ site.rss-description | xml_escape }}</description>
-    {% endif %}
-    <link>{{ '' | absolute_url }}</link>
-    <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% assign excerpt_length = site.excerpt_length | default: 50 %}
-    {% for post in site.posts limit:20 %}
+    
+    <title>Swarada Bharadwaj</title>
+    
+    
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
       <item>
-        <title>{{ post.title | strip_html | xml_escape }}</title>
+        <title>What is Success?</title>
         <description>
-          {% if post.subtitle %}{{ post.subtitle | strip_html | xml_escape }} - {% endif %}
-          {{ post.content | strip_html | xml_escape | truncatewords: excerpt_length }}
+          Success is something I have never understood. - 
+          What is success? There are certain questions that I consider important to think about - but whenever I try to,...
         </description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <pubDate>Wed, 16 Mar 2022 00:00:00 -0400</pubDate>
+        <link>/2022-03-16-what-is-success/</link>
+        <guid isPermaLink="true">/2022-03-16-what-is-success/</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Friendship vs. Judgment</title>
+        <description>
+          An incident from second grade that might have defined my friendships forever. - 
+          I have a very distinct memory from grade school that I think about a lot. In the second grade, our...
+        </description>
+        <pubDate>Fri, 07 Jan 2022 00:00:00 -0500</pubDate>
+        <link>/2022-01-07-friendship-vs-judgment/</link>
+        <guid isPermaLink="true">/2022-01-07-friendship-vs-judgment/</guid>
+      </item>
+    
+      <item>
+        <title>There’s No Such Thing As ‘Finding Your Passion’</title>
+        <description>
+          Why overthinking your life's calling is the opposite of what you should do - 
+          I don’t think that I’ve ‘found my calling’ yet. I feel like I’m interested in a lot of things, but...
+        </description>
+        <pubDate>Sun, 26 Dec 2021 00:00:00 -0500</pubDate>
+        <link>/2021-12-26-there's-no-such-thing-as-finding-your-passion/</link>
+        <guid isPermaLink="true">/2021-12-26-there's-no-such-thing-as-finding-your-passion/</guid>
+      </item>
+    
+      <item>
+        <title>Doing Something vs. Being Someone</title>
+        <description>
+          Something I Learned for Long-Term Consistency and Lasting Habits. - 
+          I used to think I had a consistency problem - that I couldn’t stick to doing anything I wanted to...
+        </description>
+        <pubDate>Fri, 17 Dec 2021 00:00:00 -0500</pubDate>
+        <link>/2021-12-17-doing-something-vs-being-someone/</link>
+        <guid isPermaLink="true">/2021-12-17-doing-something-vs-being-someone/</guid>
+      </item>
+    
+      <item>
+        <title>The Myth of the Book That Changes Everything</title>
+        <description>
+          Reading something transformative most likely won't transform you, but it's still important. - 
+          After years of trying, I was able to read consistently for a whole year in 2020. I don’t think it...
+        </description>
+        <pubDate>Thu, 09 Dec 2021 00:00:00 -0500</pubDate>
+        <link>/2021-12-09-the-myth-of-the-book-that-changes-everything/</link>
+        <guid isPermaLink="true">/2021-12-09-the-myth-of-the-book-that-changes-everything/</guid>
+      </item>
+    
   </channel>
 </rss>
